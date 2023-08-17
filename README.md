@@ -31,7 +31,7 @@ Listed below are our group's project SOPs
 >Link: https://docs.google.com/document/d/17qUiGLJrATuCBSefHrN_ez66bddRcaPReBQ9KPf7Bp0/edit#heading=h.ym1dnye3n1t6
 
 >How will your company enhance the network’s usability and security?
->Link:
+>Link: https://docs.google.com/document/d/12SQ0VD3MFF3wlBtghFN87DcbGo1lqg-4-OfOGnKsOZg/edit#heading=h.4tq3h119ni7p 
 
 >How will remote, offsite support engagements take place?
 >Link:
