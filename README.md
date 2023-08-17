@@ -2,33 +2,52 @@
 Listed below are our group's project SOPs
 
 
-# SOP #1
+# User Provisioning SOPs: (Jermain)
+>How will technology needs be handled for employees being onboarded?
+>Link: https://docs.google.com/document/d/1CnXe90mNtf9u-RW-2ed44T-y9iI5gHKZDkYjtDTTk-s/edit#heading=h.lmrzfmvmseak 
+
+>How will technology needs be handled for employees being terminated?
+>Link: https://docs.google.com/document/d/1K9VIqRFieEIzfQLPwcPRfDVGTdRf8echE0-dRjgI1Yg/edit#heading=h.lmrzfmvmseak 
+
+
+# Backup Solution SOPs: (Akah)
+>How will you backup and restore user data, critical infrastructure configurations and hosted data?
+>Link: https://docs.google.com/document/d/1LYXX9x9mfDxqbGV1u5KoLyrWvdRZcqu_PHUdt9UnBKM/edit 
+
+>How will you securely dispose of sensitive data from storage media?
+>Link: https://docs.google.com/document/d/1c1j5r4cfs617IFeAtFz0xXIyJ01KY5rkcz-kdRtqGW0/edit#heading=h.5t3ym87xjvb1 
+
+
+# OS Diversity SOPs: (Michael)
+>How will you secure Windows 10 endpoint workstations from data loss and malware threats?
 >Link: 
 
-# SOP #2
->Link: 
+>How will you support company cloud services?
+>Link: https://docs.google.com/document/d/1BMWY0A4uFKZ0Q3pUAfEd7jSdTiQaDw7p8vKfqVJo7uQ/edit#heading=h.lmrzfmvmseak 
 
-# SOP #3
->Link: 
 
-# SOP #4
->Link: 
+# Remote Access SOPs: (Renee) 
+>How will you administer and support Windows systems?
+>Link: https://docs.google.com/document/d/17qUiGLJrATuCBSefHrN_ez66bddRcaPReBQ9KPf7Bp0/edit#heading=h.ym1dnye3n1t6
 
-# SOP #5
+>How will your company enhance the network’s usability and security?
 >Link:
 
-# SOP #6
+>How will remote, offsite support engagements take place?
 >Link:
 
-# SOP #7
+>How will you perform the support engagements/interactions?
 >Link:
 
-# SOP #8
->Link:
 
-# SOP #9
->Link:
+# Collaboration SOPs: (Amleset)
+>Email Setup and Team Collaboration
+>Link: https://docs.google.com/document/d/1r8Ps2-_A5cjgR55D4_vIRmVPu5L45QC4_px5hltHdy4/edit 
 
-# SOP #10
->Link:
+>How will user or department technology purchase requests be handled?
+>Link: https://docs.google.com/document/d/1EAy1E9FGDaq1kDg1TM2u_j9gGIln4-D95tnT90jiefU/edit
 
+
+# Additional SOPs: (Amleset)
+>What troubleshooting methodology will your technicians follow during support engagements?
+>Link: https://docs.google.com/document/d/1t0YoKq6MrlxHJ8l_wS7V2ruM-ps0tf3Sni0g779xV3E/edit 
